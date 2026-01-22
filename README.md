@@ -69,4 +69,12 @@ Feature scaling using StandardScaler where required
 5️⃣ Performance Metric
 
 Accuracy (%) was used as the evaluation metric
+
+Best Sampling Technique per Model:
+
+M1: Sampling5 (93.67%)
+M2: Sampling5 (100.0%)
+M3: Sampling1 (100.0%)
+M4: Sampling2 (99.13%)
+M5: Sampling5 (98.25%)
 Accuracy is suitable here because the dataset was balanced before training.
